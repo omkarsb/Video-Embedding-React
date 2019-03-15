@@ -1,0 +1,27 @@
+/*========================*\
+    #Homepage-Video-Text
+\*========================*/
+
+.video-text {
+
+    &__title{
+        font-family: Raleway;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 1.12;
+        letter-spacing: 1.5px;
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    }
+
+    &__subtitle{
+        font-family: Raleway;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    }
+}

@@ -1,0 +1,19 @@
+.video-text{
+
+    &__redirectInfo{
+        font-family: Raleway;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    }
+
+    &__button {
+        background-color: #2f2f39;
+        height: 34px;
+        width: 151px;
+        color: #fff;
+    }
+}
